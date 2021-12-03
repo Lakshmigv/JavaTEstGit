@@ -8,6 +8,7 @@ public class AreaofCircle {
 		System.out.println("Merge the area of circle");
 		System.out.println("modified area of square and modified by another user");
 		System.out.println("Modified in master");
+		System.out.println("Modified through bash);
 	}
 
 }
